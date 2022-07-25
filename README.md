@@ -3,7 +3,7 @@
 - Atualmente estudo no Colegio Civico Militar Parigot de Souza (CCMPS)
 - Instagram: _fernanda_stresser
 
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+ https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 
 <!--
 **Stress3r/Stress3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
