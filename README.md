@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Olá, eu me chamo Fernanda Gabrieli antunes Stresser Pereira.
+- Olá, eu me chamo Fernanda Gabrieli Stresser Pereira
 - Atualmente estudo no Colegio Civico Militar Parigot de Souza (CCMPS)
 - Instagram: _fernanda_stresser
 
